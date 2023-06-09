@@ -1,2 +1,1 @@
-# twikoo-owo
-twikoo表情
+这个是 Twikoo 表情包文件所存放的仓库，目的是为了防止跨域出现
